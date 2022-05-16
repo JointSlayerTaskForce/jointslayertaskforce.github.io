@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<!-- <table border="0" width="88%" cellpadding="0" cellspacing="0"> -->
+
+<body>
+	<header>
+		<h1><a>JSTF</a></h1>
+		<!-- <nav><a>Demon Slayer Corps</a><a>Goblin Slayer Corps</a></nav> -->
+	</header>
+
+
+<table border="0" width="88%" cellpadding="0" cellspacing="0">
+<tr>
+	<td><img src="images/DSC.jpg" alt="Demon Slayer Corps"></td>
+
+	<td><img src="images/GSC.jpg" alt="Goblin Slayer Corps"></td>
+</tr>
+</body>
+
+</html>
